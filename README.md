@@ -1,1 +1,1 @@
-<img src="Library UML Diagram.jpg" width="200" height="100">
+<img src="Library UML Diagram.jpg" width="1300" height="1300">
